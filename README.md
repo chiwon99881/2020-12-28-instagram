@@ -25,3 +25,13 @@ npm i morgan
 npm i graphql-tools @graphql-tools/merge @graphql-tools/load-files
 
 ```
+
+- #03 ORM (Prisma)
+
+```bash
+
+npm install -g prisma1
+
+```
+
+- #04 Prisma Setup
