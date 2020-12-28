@@ -35,3 +35,5 @@ npm install -g prisma1
 ```
 
 - #04 Prisma Setup
+
+- #05 Prisma Data Model
