@@ -15,3 +15,13 @@ npm i babel-cli
 npm i dotenv
 
 ```
+
+- #02 Set up graphql server
+
+```bash
+
+npm i morgan
+
+npm i graphql-tools @graphql-tools/merge @graphql-tools/load-files
+
+```
